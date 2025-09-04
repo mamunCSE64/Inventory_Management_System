@@ -7,7 +7,11 @@ using Microsoft.AspNetCore.Mvc;
 using MyApp.Application.DTOs;
 using MyApp.Application.Services.ServiceInterfaces;
 using MyApp.Application.Validation;
-// checked
+<<<<<<< HEAD
+ // last update
+=======
+// check
+>>>>>>> parent of c31ade7 (checked)
 namespace MyApp.Api.Controllers
 {
     [Route("api/[controller]")]
