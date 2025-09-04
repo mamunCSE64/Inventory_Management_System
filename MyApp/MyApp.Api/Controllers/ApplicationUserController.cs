@@ -8,10 +8,14 @@ using MyApp.Application.DTOs;
 using MyApp.Application.Services.ServiceInterfaces;
 using MyApp.Application.Validation;
 <<<<<<< HEAD
+<<<<<<< HEAD
  // last update
 =======
 // check
 >>>>>>> parent of c31ade7 (checked)
+=======
+ // last update
+>>>>>>> 8f684960e75cb51245dea35c7d96a23940704c8e
 namespace MyApp.Api.Controllers
 {
     [Route("api/[controller]")]
