@@ -7,8 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using MyApp.Application.DTOs;
 using MyApp.Application.Services.ServiceInterfaces;
 using MyApp.Application.Validation;
-// checked
-// hello Nahid bro
+ // last update
 namespace MyApp.Api.Controllers
 {
     [Route("api/[controller]")]
